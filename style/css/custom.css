@@ -1,0 +1,105 @@
+body {
+	background-color: #efeff4;
+}
+.navbar-default {
+  background-color: #fff;
+  border: none;
+  min-height: 55px;
+}
+
+.navbar-default .navbar-text {
+  color: #404040;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #404040;
+  font-size: 1.4em;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: #4ABFAF;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+  color: #4ABFAF;
+  background: none;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.container-fluid {
+	padding: 0;
+}
+
+.headtop {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
+.section-header {
+	position: relative;
+	top: 0;
+}
+
+.header-content {
+	position: absolute;
+	width: 75%;
+	bottom: 6%;
+	z-index: 3;
+	color: white;
+	text-align: right;
+  left: 5%;
+}
+
+.header-content h1 {
+	font-size: 3vw;
+	letter-spacing: 0.2vw;
+  color: #4ABFAF;
+}
+
+.header-content p {
+	font-size: 2vw;
+	font-weight: lighter;
+	color: #404040;
+	letter-spacing: 0.1vw;
+}
+
+.header-img {
+  position: absolute;
+  width: 20%;
+  bottom: 4%;
+  z-index: 3;
+  left: 80%;
+}
+
+.header-img img {
+  width: 14vw;
+  height: auto;
+}
+
+.container {
+	position: relative;
+	top: 0;
+}
+
+.gfont {
+	font: 700 42px lato;
+}
+
+.footer {
+  margin-top: 20px;
+  text-align: center;
+  color: #808080;
+}
+
+.about-content {
+  background-color: white;
+  padding: 30px;
+  margin-top: 20px;
+  font-size: 1.2em;
+  line-height: 1.6em;
+  letter-spacing: 0.1vw;
+  color: #404040;
+}
