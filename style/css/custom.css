@@ -123,3 +123,20 @@ body {
   letter-spacing: 0.1vw;
   color: #404040;
 }
+
+.category {
+	text-align: center;
+	padding: 20px 40px;
+}
+
+.category a {
+	color: #ffffff;
+}
+
+.cphone {
+		background-color: #29BB9C;
+}
+
+.ctv {
+		background-color: #0070DC;
+}
